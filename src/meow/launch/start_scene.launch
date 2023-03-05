@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<launch>
+  <arg name="gazebo_gui" default="true"/>
+  <arg name="rviz_gui" default="true"/>
+
+  <arg name="robot_custom_xacro_path" default="$(find meow)/robots/meow.xacro"/>
+
+
+  <include file="$(find rbvogui_sim_bringup)/launch/rbvogui_complete.launch">
+
+    <arg name="robot_model" value="rbvogui"/>
+    <arg name="robot_xacro" value=""/>
+    <arg name="robot_use_custom_xacro_path" default="true"/>
+    <arg name="robot_custom_xacro_path" default="$(arg robot_custom_xacro_path)"/>
+
+    <arg name="launch_arm" value="true"/>
+    <arg name="arm_manufacturer" value="ur"/>
+    <arg name="arm_model" value="ur10"/>
+
+    <arg name="run_rviz" value="false"/>
+    <arg name="use_gui" value="$(arg gazebo_gui)"/>
+  </include>
+
+  <group ns='robot'>
+    <rosparam file="$(find simple_gripper_gazebo)/config/controller.yaml" command="load" subst_value="true"/>
+
+    <node name="robot_gripper_action_controller" pkg="controller_manager" type="spawner" output="screen"
+      args="
+          gripper
+      "
+      />
+  </group>
+
+  <group if="$(eval arg('rviz_gui') == true)">
+      <node name="scene_rviz" pkg="rviz" type="rviz" required="true" />
+  </group>
+
+</launch>

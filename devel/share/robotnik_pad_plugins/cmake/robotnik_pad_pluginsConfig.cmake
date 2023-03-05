@@ -1,0 +1,1 @@
+/home/alexander/project/devel/.private/robotnik_pad_plugins/share/robotnik_pad_plugins/cmake/robotnik_pad_pluginsConfig.cmake

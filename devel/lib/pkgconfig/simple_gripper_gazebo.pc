@@ -1,0 +1,1 @@
+/home/alexander/project/devel/.private/simple_gripper_gazebo/lib/pkgconfig/simple_gripper_gazebo.pc

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/alexander/project/devel/.private/joint_read_command_controller/setup.sh

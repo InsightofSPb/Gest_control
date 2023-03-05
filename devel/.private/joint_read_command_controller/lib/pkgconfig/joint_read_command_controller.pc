@@ -1,0 +1,8 @@
+prefix=/home/alexander/project/devel/.private/joint_read_command_controller
+
+Name: joint_read_command_controller
+Description: Description of joint_read_command_controller
+Version: 0.13.2
+Cflags: -I/home/alexander/project/src/joint_read_command_controller/include
+Libs: -L${prefix}/lib -ljoint_read_command_controller
+Requires: realtime_tools roscpp hardware_interface pluginlib controller_interface sensor_msgs

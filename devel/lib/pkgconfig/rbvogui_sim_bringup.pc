@@ -1,0 +1,1 @@
+/home/alexander/project/devel/.private/rbvogui_sim_bringup/lib/pkgconfig/rbvogui_sim_bringup.pc

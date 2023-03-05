@@ -1,0 +1,8 @@
+prefix=/home/alexander/project/devel/.private/meow
+
+Name: meow
+Description: Description of meow
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

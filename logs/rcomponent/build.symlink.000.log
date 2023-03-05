@@ -1,0 +1,10 @@
+Symlinking /home/alexander/project/devel/share/rcomponent/cmake/rcomponentConfig.cmake
+Symlinking /home/alexander/project/devel/share/rcomponent/cmake/rcomponentConfig-version.cmake
+Symlinking /home/alexander/project/devel/lib/librcomponent.so
+Symlinking /home/alexander/project/devel/lib/python3/dist-packages/rcomponent/__init__.py
+Symlinking /home/alexander/project/devel/lib/rcomponent/rcomponent_server
+Symlinking /home/alexander/project/devel/lib/rcomponent/test_namespace
+Symlinking /home/alexander/project/devel/lib/rcomponent/rcomponent_simple
+Symlinking /home/alexander/project/devel/lib/rcomponent/rcomponent_diagnostic
+Symlinking /home/alexander/project/devel/lib/rcomponent/rcomponent_simple_async
+Symlinking /home/alexander/project/devel/lib/pkgconfig/rcomponent.pc

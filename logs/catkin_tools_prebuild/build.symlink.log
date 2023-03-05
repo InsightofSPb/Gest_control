@@ -1,0 +1,12 @@
+Symlinking /home/alexander/project/devel/./local_setup.zsh
+Symlinking /home/alexander/project/devel/./local_setup.bash
+Symlinking /home/alexander/project/devel/./setup.sh
+Symlinking /home/alexander/project/devel/./cmake.lock
+Symlinking /home/alexander/project/devel/./local_setup.sh
+Symlinking /home/alexander/project/devel/./env.sh
+Symlinking /home/alexander/project/devel/./setup.bash
+Symlinking /home/alexander/project/devel/./setup.zsh
+Symlinking /home/alexander/project/devel/./_setup_util.py
+Symlinking /home/alexander/project/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/alexander/project/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/alexander/project/devel/lib/pkgconfig/catkin_tools_prebuild.pc

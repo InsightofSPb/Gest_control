@@ -1,0 +1,1 @@
+/home/alexander/project/devel/.private/rbvogui_moveit_ur10/share/rbvogui_moveit_ur10/cmake/rbvogui_moveit_ur10Config-version.cmake

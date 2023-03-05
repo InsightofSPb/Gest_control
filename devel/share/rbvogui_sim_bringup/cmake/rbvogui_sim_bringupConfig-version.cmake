@@ -1,0 +1,1 @@
+/home/alexander/project/devel/.private/rbvogui_sim_bringup/share/rbvogui_sim_bringup/cmake/rbvogui_sim_bringupConfig-version.cmake

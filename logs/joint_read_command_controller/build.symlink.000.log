@@ -1,0 +1,4 @@
+Symlinking /home/alexander/project/devel/share/joint_read_command_controller/cmake/joint_read_command_controllerConfig.cmake
+Symlinking /home/alexander/project/devel/share/joint_read_command_controller/cmake/joint_read_command_controllerConfig-version.cmake
+Symlinking /home/alexander/project/devel/lib/libjoint_read_command_controller.so
+Symlinking /home/alexander/project/devel/lib/pkgconfig/joint_read_command_controller.pc

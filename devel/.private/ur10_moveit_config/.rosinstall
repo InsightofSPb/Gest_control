@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/alexander/project/devel/.private/ur10_moveit_config/setup.sh

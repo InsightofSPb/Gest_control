@@ -1,0 +1,1 @@
+/home/alexander/project/devel/.private/rbvogui_localization/share/rbvogui_localization/cmake/rbvogui_localizationConfig.cmake

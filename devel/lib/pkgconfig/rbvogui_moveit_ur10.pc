@@ -1,0 +1,1 @@
+/home/alexander/project/devel/.private/rbvogui_moveit_ur10/lib/pkgconfig/rbvogui_moveit_ur10.pc

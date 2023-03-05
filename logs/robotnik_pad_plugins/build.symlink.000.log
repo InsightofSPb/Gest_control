@@ -1,0 +1,5 @@
+Symlinking /home/alexander/project/devel/share/robotnik_pad_plugins/cmake/robotnik_pad_pluginsConfig.cmake
+Symlinking /home/alexander/project/devel/share/robotnik_pad_plugins/cmake/robotnik_pad_pluginsConfig-version.cmake
+Symlinking /home/alexander/project/devel/lib/librobotnik_pad_pluginlib.so
+Symlinking /home/alexander/project/devel/lib/librobotnik_pad_plugins.so
+Symlinking /home/alexander/project/devel/lib/pkgconfig/robotnik_pad_plugins.pc

@@ -1,0 +1,6 @@
+devel_space: /home/alexander/project/devel
+install: false
+install_space: /home/alexander/project/install
+profile: default
+source_space: /home/alexander/project/src
+workspace: /home/alexander/project

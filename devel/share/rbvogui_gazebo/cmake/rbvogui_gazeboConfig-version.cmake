@@ -1,0 +1,1 @@
+/home/alexander/project/devel/.private/rbvogui_gazebo/share/rbvogui_gazebo/cmake/rbvogui_gazeboConfig-version.cmake

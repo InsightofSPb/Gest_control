@@ -1,0 +1,1 @@
+/home/alexander/project/devel/.private/robotnik_pad_msgs/share/roseus/ros/robotnik_pad_msgs/msg/MovementStatus.l

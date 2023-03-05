@@ -1,0 +1,8 @@
+prefix=/home/alexander/project/devel/.private/simple_gripper_gazebo
+
+Name: simple_gripper_gazebo
+Description: Description of simple_gripper_gazebo
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

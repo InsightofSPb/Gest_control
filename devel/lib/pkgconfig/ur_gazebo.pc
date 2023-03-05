@@ -1,0 +1,1 @@
+/home/alexander/project/devel/.private/ur_gazebo/lib/pkgconfig/ur_gazebo.pc

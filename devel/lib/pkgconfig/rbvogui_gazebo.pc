@@ -1,0 +1,1 @@
+/home/alexander/project/devel/.private/rbvogui_gazebo/lib/pkgconfig/rbvogui_gazebo.pc
